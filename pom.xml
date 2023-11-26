@@ -15,7 +15,7 @@
   <!-- Add distributionManagement section for deployment -->
   <distributionManagement>
     <repository>
-      <id>your-repo-id</id>
+      <id>723595028</id>
       <name>project</name>
       <url>https://github.com/vandana2003/project.gitl</url>
     </repository>
